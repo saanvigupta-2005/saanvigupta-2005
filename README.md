@@ -12,7 +12,7 @@ Hi, I’m a B.Tech CSE student passionate about building real-world software sol
 ![](https://nirzak-streak-stats.vercel.app/?user=saanvigupta-2005&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saanvigupta-2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
