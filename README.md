@@ -1,17 +1,32 @@
-# 💫 About Me## 💫 About Me
+# 💫 About Me
 
-Hi, I’m Saanvi — a B.Tech Computer Science student passionate about building real-world software that solves practical problems.
+<p>
+Hi, I’m <b>Saanvi</b> — a B.Tech Computer Science student passionate about building 
+<b>real-world software solutions</b> that solve practical problems.
+</p>
 
-I love working across the full stack, designing clean UI/UX, and strengthening my problem-solving skills through Data Structures and Algorithms. I enjoy turning ideas into functional applications using modern web technologies and continuously sharpening my skills through projects and consistent LeetCode practice.
+<p>
+I enjoy working across the <b>full stack</b>, designing clean and intuitive <b>UI/UX</b>, 
+and strengthening my problem-solving skills through <b>Data Structures and Algorithms</b>. 
+I love turning ideas into functional applications using modern web technologies and 
+continuously improving through projects and consistent LeetCode practice.
+</p>
 
-I’m particularly interested in building scalable web apps, experimenting with AI integrations, and creating user-friendly digital experiences.
+<p>
+I’m particularly interested in building <b>scalable web applications</b>, experimenting with 
+<b>AI integrations</b>, and creating <b>user-friendly digital experiences</b>.
+</p>
 
-- 💻 Full-Stack Web Development (MERN / Next.js)
-- 🎯 Strong focus on DSA & problem solving
-- 🎨 UI/UX enthusiast with an eye for clean design
-- 🚀 Always building, learning, and improving
+<ul>
+  <li>💻 <b>Full-Stack Web Development</b> (MERN / Next.js)</li>
+  <li>🎯 <b>Strong focus on DSA & Problem Solving</b></li>
+  <li>🎨 <b>UI/UX Enthusiast</b> with an eye for clean design</li>
+  <li>🚀 <b>Always building, learning, and improving</b></li>
+</ul>
 
-I believe in learning by building and writing code that is practical, efficient, and impactful.
+<p>
+I believe in <b>learning by building</b> and writing code that is practical, efficient, and impactful.
+</p>
 
 
 
