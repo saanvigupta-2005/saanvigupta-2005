@@ -1,5 +1,18 @@
-# 💫 About Me
-Hi, I’m a B.Tech CSE student passionate about building real-world software solutions.<br>I enjoy working on full-stack web development, UI/UX design, and problem solving through data structures and algorithms.<br>I love turning ideas into working applications and continuously improving my coding skills through projects and LeetCode practice.
+# 💫 About Me## 💫 About Me
+
+Hi, I’m Saanvi — a B.Tech Computer Science student passionate about building real-world software that solves practical problems.
+
+I love working across the full stack, designing clean UI/UX, and strengthening my problem-solving skills through Data Structures and Algorithms. I enjoy turning ideas into functional applications using modern web technologies and continuously sharpening my skills through projects and consistent LeetCode practice.
+
+I’m particularly interested in building scalable web apps, experimenting with AI integrations, and creating user-friendly digital experiences.
+
+- 💻 Full-Stack Web Development (MERN / Next.js)
+- 🎯 Strong focus on DSA & problem solving
+- 🎨 UI/UX enthusiast with an eye for clean design
+- 🚀 Always building, learning, and improving
+
+I believe in learning by building and writing code that is practical, efficient, and impactful.
+
 
 
 ## 🌐 Socials
