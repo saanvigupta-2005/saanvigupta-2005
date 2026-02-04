@@ -3,7 +3,8 @@ Hi, I’m a B.Tech CSE student passionate about building real-world software sol
 
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saanvegupta_sanu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saanvi-gupta-524a8228a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/saanvinavya2005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saanvi167btcse23@igdtuw.ac.in) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/Saanvi_Gupta167) [![Naukri Code360](https://img.shields.io/badge/Naukri%20Code360-0057B8?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/code360/profile/4c86fa06-2d2f-41f5-a5f3-6ace1b5f2195)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saanvegupta_sanu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saanvi-gupta-524a8228a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/saanvinavya2005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saanvi167btcse23@igdtuw.ac.in) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/Saanvi_Gupta167) [![Naukri Code360](https://img.shields.io/badge/Naukri%20Code360-0057B8?logo=hackerrank&logoColor=white)](https://www.naukri.com/code360/profile/4c86fa06-2d2f-41f5-a5f3-6ace1b5f2195)
+
 
 
 # 💻 Tech Stack
