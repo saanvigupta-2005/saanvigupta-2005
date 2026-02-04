@@ -16,7 +16,6 @@ Hi, I’m a B.Tech CSE student passionate about building real-world software sol
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saanvigupta-2005&theme=tokyonight)
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saanvigupta-2005&theme=tokyonight)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saanvigupta-2005&theme=tokyonight)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saanvigupta-2005&theme=tokyonight&utcOffset=5.5)
 
 
 
